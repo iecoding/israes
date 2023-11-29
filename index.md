@@ -14,16 +14,61 @@ layout: default
   - Friendly and reliable coworker, high availability to teach, listen and help. Natural leadership but also, I can be a coworker’s right hand.
 
 ## Technical Skills
-Verbal fluency `(oral and written)`<br>Source code documentation skills<br>Google Workspace `(6 years)`<br>Microsoft Teams `(6 years)`<br>SCRUM `(6 years)`<br>Jira + Confluence `(6 years)`<br>Web Servers `(10 years)`<br>Apache `(8 years)`<br>Nginx `(3 years)`<br>Linux `(6 years)`<br>Microsoft IIS `(6 years)`<br>Cloud Computing `(6 years)`<br>AWS `(5 years)`<br>Azure `(5 years)`<br>Photoshop `(8 years)`<br>Illustrator `(8 years)`<br>AdobeXD/Figma/Sketch `(5 years)`           
-
 #### Experience with technologies and software development:
+- Verbal fluency `(oral and written)`
+- Source code documentation skills
+- Google Workspace `(6 years)`
+- Microsoft Teams `(6 years)`
+- SCRUM `(6 years)`
+- Jira + Confluence `(6 years)`
+- Web Servers `(10 years)`
+- Apache `(8 years)`
+- Nginx `(3 years)`
+- Linux `(6 years)`
+- Microsoft IIS `(6 years)`
+- Cloud Computing `(6 years)`
+- AWS `(5 years)`
+- Azure `(5 years)`
+- Photoshop `(8 years)`
+- Illustrator `(8 years)`
+- AdobeXD/Figma/Sketch `(5 years)`           
+
 **Backend `(8 years)`**<br>
-PHP `(8 years)`<br>CodeIgniter `(6 years)`<br>Laravel `(2 years)`<br>WP Plugins `(5 years)`<br>WP CLI `(4 years)`<br>WooCoomerce `(6 years)`<br>Hooks `(4 years)`<br>Python `(2 years)`<br>C# `(2 years)`<br>NodeJS `(2 years)`<br>Java `(1 year)`<br><br>
-**Database**<br>MySQL `(6 years)`<br>PostgreSQL `(3 years)`<br>Microsoft SQL Server `(2 years)`<br>Oracle `(1 year)`<br><br>
-**Custom APIs`(4 years)`**<br>Wordpress API `(5 years)`<br>WooCommerce `(4 years)`<br>
+- PHP `(8 years)`
+- CodeIgniter `(6 years)`
+- Laravel `(2 years)`
+- WP Plugins `(5 years)`
+- WP CLI `(4 years)`
+- WooCoomerce `(6 years)`
+- Hooks `(4 years)`
+- Python `(2 years)`
+- C# `(2 years)`
+- NodeJS `(2 years)`
+- Java `(1 year)`
+<br><br>
+**Database**
+- MySQL `(6 years)`
+- PostgreSQL `(3 years)`
+- Microsoft SQL Server `(2 years)`
+- Oracle `(1 year)`
+<br><br>
+**Custom APIs`(4 years)`**
+- Wordpress API `(5 years)`
+- WooCommerce `(4 years)`
+<br>
 
 **Frontend `(10 years)`**<br>
-HTML `(15 years)`<br>CSS `(15 years)`<br>SASS `(5 years)`<br>JavaScript `(12 years)`<br>jQuery `(10 years)`<br>Wordpress  Themes `(8 years)`<br>Gutenberg Blocks `(4 years)`<br>React `(3 years)`<br>Tailwind CSS `(2 years)`<br>TypeScript `(3 years)`<br>Angular `(3 years)`<br>Vue `(1 year)`  |
+- HTML `(15 years)`CSS `(15 years)`
+- SASS `(5 years)`
+- JavaScript `(12 years)`
+- jQuery `(10 years)`
+- Wordpress  Themes `(8 years)`
+- Gutenberg Blocks `(4 years)`
+- React `(3 years)`
+- Tailwind CSS `(2 years)`
+- TypeScript `(3 years)`
+- Angular `(3 years)`
+- Vue `(1 year)`
 
 <br><br>
 
