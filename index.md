@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+## Soft Skills
  - Fullstack developer with over 10 years of experience in creating dynamic websites (public and private), customized e-commerce solutions and recently mobile apps. 
  -  Proficient in providing strategic advice to customers (both internal and external), proposing innovative solutions tailored to the client, and managing communication through relationships with institutions and teams.
  -  Experienced with project management, developing and implementing strategies with a positive impact even under pressure.
@@ -13,16 +13,16 @@ layout: default
   - Content writing and SEO optimization for websites with best practices with search engines. Cost estimation experience and quotation duties. 
   - Friendly and reliable coworker, high availability to teach, listen and help. Natural leadership but also, I can be a coworker’s right hand.
 
-#### Skills
+## Technical Skills
 Verbal fluency `(oral and written)`<br>Source code documentation skills<br>Google Workspace `(6 years)`<br>Microsoft Teams `(6 years)`<br>SCRUM `(6 years)`<br>Jira + Confluence `(6 years)`<br>Web Servers `(10 years)`<br>Apache `(8 years)`<br>Nginx `(3 years)`<br>Linux `(6 years)`<br>Microsoft IIS `(6 years)`<br>Cloud Computing `(6 years)`<br>AWS `(5 years)`<br>Azure `(5 years)`<br>Photoshop `(8 years)`<br>Illustrator `(8 years)`<br>AdobeXD/Figma/Sketch `(5 years)`           
 
-## Experience with technologies and software development:
-**Backend `(8 years)`**
+#### Experience with technologies and software development:
+**Backend `(8 years)`**<br>
 PHP `(8 years)`<br>CodeIgniter `(6 years)`<br>Laravel `(2 years)`<br>WP Plugins `(5 years)`<br>WP CLI `(4 years)`<br>WooCoomerce `(6 years)`<br>Hooks `(4 years)`<br>Python `(2 years)`<br>C# `(2 years)`<br>NodeJS `(2 years)`<br>Java `(1 year)`<br><br>
 **Database**<br>MySQL `(6 years)`<br>PostgreSQL `(3 years)`<br>Microsoft SQL Server `(2 years)`<br>Oracle `(1 year)`<br><br>
 **Custom APIs`(4 years)`**<br>Wordpress API `(5 years)`<br>WooCommerce `(4 years)`<br>
 
-**Frontend `(10 years)`**
+**Frontend `(10 years)`**<br>
 HTML `(15 years)`<br>CSS `(15 years)`<br>SASS `(5 years)`<br>JavaScript `(12 years)`<br>jQuery `(10 years)`<br>Wordpress  Themes `(8 years)`<br>Gutenberg Blocks `(4 years)`<br>React `(3 years)`<br>Tailwind CSS `(2 years)`<br>TypeScript `(3 years)`<br>Angular `(3 years)`<br>Vue `(1 year)`  |
 
 <br><br>
