@@ -30,8 +30,8 @@ HTML `(15 years)`<br>CSS `(15 years)`<br>SASS `(5 years)`<br>JavaScript `(12 yea
 
 <br><br>
 ## Job Experience:
-**`2021 - 2022` R&D Engineer - Key Logistics Group (International)**
-*Remote / USA – Mexico – Panama – Colombia*
+**`2021 - 2022` R&D Engineer - Key Logistics Group (International)**<br>
+*Remote / USA – Mexico – Panama – Colombia*<br>
 - Activities and job description:
 - Digital marketing growth: Complementing social media strategy with SEO and SEM efforts. Using WordPress as a landing page builder.
 - Microsoft Teams applications automation with Power Automate. It was demonstrated that apps can be integrated into Teams and create custom data workflows.
@@ -39,15 +39,15 @@ HTML `(15 years)`<br>CSS `(15 years)`<br>SASS `(5 years)`<br>JavaScript `(12 yea
 - WordPress Multisite website development with HubSpot CRM integration.
 - Custom web application development (MVP prototype) with CodeIgniter PHP Framework and PostgreSQL as database engine.
 
-**`2020 – 2021` Web Developer - Geo Victoria (International)**
-*Remote / Mexico – Colombia – Chile*
+**`2020 – 2021` Web Developer - Geo Victoria (International)**<br>
+*Remote / Mexico – Colombia – Chile*<br>
 - Activities and job description:
 - Provided support to the sales team during meetings with clients. Solving technical issues and following replies from customer side developer’s team.
 - New features development for their  SaaS web software. Source code documentation and knowledge base feeding.
 - C# with .NET training for customer side API development.
 
-**`2018 – 2021`  Fullstack Developer - Compila Ideas**
-*On site / Leon - Guadalajara*
+**`2018 – 2021`  Fullstack Developer - Compila Ideas**<br>
+*On site / Leon - Guadalajara*<br>
 - Activities and job description:
 - Web development with WordPress. Design and programming of custom themes and functional plugins like WPML and WooCommerce.
 - SCRUM implementation using Jira and Confluence as a Knowledge Base.
@@ -55,30 +55,30 @@ HTML `(15 years)`<br>CSS `(15 years)`<br>SASS `(5 years)`<br>JavaScript `(12 yea
 - Apache server configuration on Linux and Windows operating systems. AWS and Microsoft Azure console.
 - Automated application deployment with GIT and Bash (DevOps).
 
-**`2016 – 2018` Software application developer - CoDevelopIT**
-*On site / México - USA*
+**`2016 – 2018` Software application developer - CoDevelopIT**<br>
+*On site / México - USA*<br>
 Activities and job description:
 - Mobile app development with NativeScript and Angular (Typescript).
 - Single Page Application development with AngularJS.
 - Providing support and guidance to the sales team in English. Personnel management and teamwork.
 - WordPress and WooCommerce training to coworkers and related customers.
 
-**`2015 - 2016` Web developer - Difraxion Group**
-*On site / León, Gto. Mexico.*
+**`2015 - 2016` Web developer - Difraxion Group**<br>
+*On site / León, Gto. Mexico.*<br>
 Activities and job description:
 - Git and Atlassian Bitbucket implementation for repository management.
 - Responsive website development with CodeIgniter 3 and Bootstrap frameworks. Learning object-oriented programming (OOP) and MVC patterns.
 - Use of web builders: Elementor and Divi.
 
-**`2012 - 2016`  Interactive Digital Designer / Multimedia Producer - ISOPTIKA**
-*On site / León, Gto.*
+**`2012 - 2016`  Interactive Digital Designer / Multimedia Producer - ISOPTIKA**<br>
+*On site / León, Gto.*<br>
 Activities and job description:
 - Digital design using Adobe Suite (Photoshop, Illustrator, After Effects, and Premiere Pro).
 - Website design with WordPress and Bootstrap Framework.
 - Experience with offset printing, screen printing, and sublimation.
 
-**`2007 - 2012`  Webmaster**
-*Freelance / On site / León, Gto.*
+**`2007 - 2012`  Webmaster**<br>
+*Freelance / On site / León, Gto.*<br>
 Activities and job description:
 - Coding XHTML and CSS websites with validated by W3C standards.
 - Website development with  WordPress, Joomla, and Drupal.
@@ -86,51 +86,51 @@ Activities and job description:
 - Template design with Photoshop (12 grid columns).
 
 ## ACADEMIC EXPERIENCE:
-**Master degree in Web Engineering**
-Universidad Internacional de La Rioja en Mexico (UNIR Mexico)
-Professional ID number: 12170441
-http://mexico.unir.net/
-2018 - 2020
+**Master degree in Web Engineering**<br>
+Universidad Internacional de La Rioja en Mexico (UNIR Mexico)<br>
+Professional ID number: 12170441<br>
+http://mexico.unir.net/<br>
+2018 - 2020<br>
 
-**Bachelor Degree in Computational System Engineering**
-Universidad Tecnologica  Latinoamericana (UTEL Mexico)
-Professional ID number: 11352969
-http://www.utel.edu.mx
-2015 – 2017
+**Bachelor Degree in Computational System Engineering**<br>
+Universidad Tecnologica  Latinoamericana (UTEL Mexico)<br>
+Professional ID number: 11352969<br>
+http://www.utel.edu.mx<br>
+2015 – 2017<br>
 
-**Digital Marketing & Social Media Diploma**
-COFOCE GTO / ITESM Leon
-ID number: 16640
-2017 – 2018
+**Digital Marketing & Social Media Diploma**<br>
+COFOCE GTO / ITESM Leon<br>
+ID number: 16640<br>
+2017 – 2018<br>
 
-**Adobe Educa LATAM**
-Graphic Integration / Web Integration / Spark Page y Post
-Mockups with Adobe Xperience Design
+**Adobe Educa LATAM**<br>
+Graphic Integration / Web Integration / Spark Page y Post<br>
+Mockups with Adobe Xperience Design<br>
 
-**W3C Schools (2010)**
-HTML Certificate - No.3504417
-CSS Certificate - No. 5278682
-PHP Developer Certificate - No. 5264082
+**W3C Schools (2010)**<br>
+HTML Certificate - No.3504417<br>
+CSS Certificate - No. 5278682<br>
+PHP Developer Certificate - No. 5264082<br>
 
 ## ACADEMIC PROFILE:
-**Bachelor's Level Teacher at Universidad Iberoamericana Leon**
-2021 – 2023 (2 years blended learning)
-Subject areas: Business Intelligence Systems, Ecommerce, Web Programming.
+**Bachelor's Level Teacher at Universidad Iberoamericana Leon**<br>
+2021 – 2023 (2 years blended learning)<br>
+Subject areas: Business Intelligence Systems, Ecommerce, Web Programming.<br>
 
-**Bachelor's Level Teacher at Universidad EBC Campus Leon**
-2018 – 2021 (2 years blended learning)
-Subject areas: Digital Marketing, Multimedia, Gaming Industries, User Experience Design, Digital Contents, Entrepreneur Ecosystem.
+**Bachelor's Level Teacher at Universidad EBC Campus Leon**<br>
+2018 – 2021 (2 years blended learning)<br>
+Subject areas: Digital Marketing, Multimedia, Gaming Industries, User Experience Design, Digital Contents, Entrepreneur Ecosystem.<br>
 
-**Course Instructor at Ibero Leon Virtual**
-2020 – 2021 (2 years blended learning)
-Design Thinking for UGTO University, Cloud Computing for SABES Institute and Digital Marketing diploma for Ibero Leon.
+**Course Instructor at Ibero Leon Virtual**<br>
+2020 – 2021 (2 years blended learning)<br>
+Design Thinking for UGTO University, Cloud Computing for SABES Institute and Digital Marketing diploma for Ibero Leon.<br>
 
-**Course Instructor at Universidad Tecnologica de Leon (UTL)**
-2014 Open CMS : Drupal, Joomla y WordPress. On site.
+**Course Instructor at Universidad Tecnologica de Leon (UTL)**<br>
+2014 Open CMS : Drupal, Joomla y WordPress. On site.<br>
 
-**Speaker “Job Attitude” Universidad Politecnica  Bicentenario**
-2013 Parque Bicentenario Guanajuato, Gto. Mexico. On site.
-I love to inspire young students.
+**Speaker “Job Attitude” Universidad Politecnica  Bicentenario**<br>
+2013 Parque Bicentenario Guanajuato, Gto. Mexico. On site.<br>
+I love to inspire young students.<br>
 
 
 ## Portfolio
