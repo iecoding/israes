@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Multimedia producer, software engineer and science professor.
-
  - Fullstack developer with over 10 years of experience in creating dynamic websites (public and private), customized e-commerce solutions and recently mobile apps. 
  -  Proficient in providing strategic advice to customers (both internal and external), proposing innovative solutions tailored to the client, and managing communication through relationships with institutions and teams.
  -  Experienced with project management, developing and implementing strategies with a positive impact even under pressure.
