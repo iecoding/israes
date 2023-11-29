@@ -103,24 +103,24 @@ CSS Certificate - No. 5278682<br>
 PHP Developer Certificate - No. 5264082<br>
 
 ## ACADEMIC PROFILE:
-**Bachelor's Level Teacher at Universidad Iberoamericana Leon**
-2021 – 2023 (2 years blended learning)
-Subject areas: Business Intelligence Systems, Ecommerce, Web Programming.
+**Bachelor's Level Teacher at Universidad Iberoamericana Leon**<br>
+2021 – 2023 (2 years blended learning)<br>
+Subject areas: Business Intelligence Systems, Ecommerce, Web Programming.<br>
 
-**Bachelor's Level Teacher at Universidad EBC Campus Leon**
-2018 – 2021 (2 years blended learning)
-Subject areas: Digital Marketing, Multimedia, Gaming Industries, User Experience Design, Digital Contents, Entrepreneur Ecosystem.
+**Bachelor's Level Teacher at Universidad EBC Campus Leon**<br>
+2018 – 2021 (2 years blended learning)<br>
+Subject areas: Digital Marketing, Multimedia, Gaming Industries, User Experience Design, Digital Contents, Entrepreneur Ecosystem.<br>
 
-**Course Instructor at Ibero Leon Virtual**
-2020 – 2021 (2 years blended learning)
-Design Thinking for UGTO University, Cloud Computing for SABES Institute and Digital Marketing diploma for Ibero Leon.
+**Course Instructor at Ibero Leon Virtual**<br>
+2020 – 2021 (2 years blended learning)<br>
+Design Thinking for UGTO University, Cloud Computing for SABES Institute and Digital Marketing diploma for Ibero Leon.<br>
 
-**Course Instructor at Universidad Tecnologica de Leon (UTL)**
-2014 Open CMS : Drupal, Joomla y WordPress. On site.
+**Course Instructor at Universidad Tecnologica de Leon (UTL)**<br>
+2014 Open CMS : Drupal, Joomla y WordPress. On site.<br>
 
-**Speaker “Job Attitude” Universidad Politecnica  Bicentenario**
-2013 Parque Bicentenario Guanajuato, Gto. Mexico. On site.
-I love to inspire young students.
+**Speaker “Job Attitude” Universidad Politecnica  Bicentenario**<br>
+2013 Parque Bicentenario Guanajuato, Gto. Mexico. On site.<br>
+I love to inspire young students.<br>
 
 
 ## Portfolio
